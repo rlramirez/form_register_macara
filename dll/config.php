@@ -1,5 +1,5 @@
 <?php
-$site_name="3er Festival Binacional de Parapente Macara 2015";
+$site_name="3er Festival Binacional de Parapente-Macará 2015";
 $irl_site="http://127.0.0.1/macara2015/";
 //
 //

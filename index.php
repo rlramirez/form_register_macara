@@ -396,7 +396,7 @@
 						</div>
 				 	</div>
 			  	
-					<button type="submit" class="btn btn-primary">Guardar datos</button>
+					<button type="submit" class="btn btn-primary">Guardar Datos</button>
 			  </div>
 			</div>
 			
