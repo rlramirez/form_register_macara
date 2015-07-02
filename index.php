@@ -24,7 +24,7 @@
 					<div class="form-group">
 					    <label for="inputnombres" class="col-sm-2 control-label">Nombres</label>
 					    <div class="col-sm-10">
-					      <input type="text" class="form-control" id="inputnombres" placeholder="Nombres" name="nombres" required>
+					      <input type="text" class="form-control" id="inputnombres" placeholder="Nombres/First Name" name="nombres" required>
 					    </div>
 					</div>
 					<div class="form-group">
@@ -35,7 +35,7 @@
 					</div>
 
 					<div class="span5 well">
-					    <label for="id_cedula">PARTICIPACION</label>
+					    <label for="id_cedula">PARTICIPACION/PARTICIPATION</label>
 						<div class="form-group">
 							<div class="form-inline">
 								<div class="form-group">
@@ -68,29 +68,29 @@
 					<div class="form-group">
 					    <label for="inputemail" class="col-sm-2 control-label">Celular</label>
 					    <div class="col-sm-10">
-					      <input type="text" class="form-control" id="inputemail" placeholder="Celular" name="celular" required>
+					      <input type="text" class="form-control" id="inputemail" placeholder="Celular/Phone" name="celular" required>
 					    </div>
 					</div>
 					<div class="form-group">
 					    <label for="inputemail" class="col-sm-2 control-label">Tipo de sangre</label>
 					    <div class="col-sm-10">
-					      <input type="text" class="form-control" id="inputemail" placeholder="Tipo de sangre" name="sangre" required>
+					      <input type="text" class="form-control" id="inputemail" placeholder="Tipo de sangre/Blood type" name="sangre" required>
 					    </div>
 					</div>
 					<div class="form-group">
 					    <label for="inputemail" class="col-sm-2 control-label">Club Perteneciente</label>
 					    <div class="col-sm-10">
-					      <input type="text" class="form-control" id="inputemail" placeholder="Club Perteneciente"  name="club">
+					      <input type="text" class="form-control" id="inputemail" placeholder="Club Perteneciente/Paraglider club"  name="club">
 					    </div>
 					</div>
 					<div class="form-group">
 					    <label for="inputemail" class="col-sm-2 control-label">Parapente</label>
 					    <div class="col-sm-10">
-					      <input type="text" class="form-control" id="inputemail" placeholder="Parapente" name="parapente" required>
+					      <input type="text" class="form-control" id="inputemail" placeholder="Parapente/Paraglider" name="parapente" required>
 					    </div>
 					</div>
 					<div class="form-group">
-					    <label for="inputemail" class="col-sm-2 control-label">Homologación</label>
+					    <label for="inputemail" class="col-sm-2 control-label">Homologación / Approval</label>
 					    <div class="col-sm-10">
 					      <select class="form-control"  name="homologacion">
 									  <option>--</option>
@@ -104,7 +104,7 @@
 					<div class="form-group">
 					    <label for="inputemail" class="col-sm-2 control-label">Colores</label>
 					    <div class="col-sm-10">
-					      <input type="text" class="form-control" id="inputemail" placeholder="Colores" name="colores" required>
+					      <input type="text" class="form-control" id="inputemail" placeholder="Colores/Colors" name="colores" required>
 					    </div>
 					</div>
 			  	
@@ -113,7 +113,7 @@
 					<div class="form-group">
 					    <label for="inputapellidos" class="col-sm-2 control-label">Apellidos</label>
 					    <div class="col-sm-10">
-					      <input type="text" class="form-control" id="inputapellidos" placeholder="Apellidos" name="apellidos" required>
+					      <input type="text" class="form-control" id="inputapellidos" placeholder="Apellidos/Second Name" name="apellidos" required>
 					    </div>
 					</div>
 					<div class="form-group">
@@ -123,7 +123,7 @@
 					    </div>
 					</div>
 					<div class="form-group">
-					    <label for="inputpais" class="col-sm-2 control-label">País</label>
+					    <label for="inputpais" class="col-sm-2 control-label">País/Country</label>
 					    <div class="col-sm-10">
 					      <select name="pais" id="inputpais"  class="form-control">
 							<option value="" selected="selected">---------</option>
@@ -347,13 +347,13 @@
 					<div class="form-group">
 					    <label for="inputemail" class="col-sm-2 control-label">Ciudad</label>
 					    <div class="col-sm-10">
-					      <input type="text" class="form-control" id="inputemail" placeholder="Ciudad"  name="ciudad">
+					      <input type="text" class="form-control" id="inputemail" placeholder="Ciudad/City"  name="ciudad">
 					    </div>
 					</div>
 					<div class="form-group">
 					    <label for="inputemail" class="col-sm-2 control-label">Dirección</label>
 					    <div class="col-sm-10">
-					      <input type="text" class="form-control" id="inputemail" placeholder="Dirección"  name="direccion">
+					      <input type="text" class="form-control" id="inputemail" placeholder="Dirección/Address"  name="direccion">
 					    </div>
 					</div>
 					<div class="form-group">
@@ -369,7 +369,7 @@
 							<div class="form-group">
 							    <label for="inputemail" class="col-sm-2 control-label">Alergia</label>
 							    <div class="col-sm-10">
-							      <textarea class="form-control" rows="3"  name="alergia" placeholder="Alergia algún medicamento"></textarea>
+							      <textarea class="form-control" rows="3"  name="alergia" placeholder="Alergia algún medicamento/Allergy"></textarea>
 							    </div>
 							</div>
 						</div>
@@ -379,19 +379,19 @@
 						<div class="form-group">
 						    <label for="inputemail" class="col-sm-2 control-label">Teléfono 1</label>
 						    <div class="col-sm-10">
-						      <input type="text" class="form-control" id="inputemail" placeholder="Teléfono de emergencia 1" name="telef1" required>
+						      <input type="text" class="form-control" id="inputemail" placeholder="Teléfono de emergencia 1/Emergency number" name="telef1" required>
 						    </div>
 						</div>
 						<div class="form-group">
 						    <label for="inputemail" class="col-sm-2 control-label">Teléfono 2</label>
 						    <div class="col-sm-10">
-						      <input type="text" class="form-control" id="inputemail" placeholder="Teléfono de emergencia 2" name="telef2">
+						      <input type="text" class="form-control" id="inputemail" placeholder="Teléfono de emergencia 2/Emergency number" name="telef2">
 						    </div>
 						</div>
 						<div class="form-group">
 						    <label for="inputemail" class="col-sm-2 control-label">Teléfono 3</label>
 						    <div class="col-sm-10">
-						      <input type="text" class="form-control" id="inputemail" placeholder="Teléfono de emergencia 3" name="telef3">
+						      <input type="text" class="form-control" id="inputemail" placeholder="Teléfono de emergencia 3/Emergency number" name="telef3">
 						    </div>
 						</div>
 				 	</div>
